@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Mashuaiii.github.io/sitemap.xml
